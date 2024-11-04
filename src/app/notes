@@ -1,0 +1,25 @@
+## Ngrx:
+
+It is a library based on redux pattern used for state management for whole appplication
+
+## keywords:
+
+1.store
+2.reducer
+3.dispatch
+4.action
+5.effects
+6.selector
+
+## definations:
+
+1.store:
+
+let data ={
+products:[],
+orders:[],
+cart:[],
+userDetails:{}
+}
+
+2. reducer:
