@@ -1,0 +1,22 @@
+## Ngrx:
+
+It is a library based on redux pattern used for state management for whole appplication
+
+## keywords:
+
+1.store
+2.reducer
+3.dispatch
+4.action
+5.effects
+6.selector
+
+## definations:
+
+## steps to create ngrx
+
+1. ng add @ngrx/store@latest
+2. create Reducer function
+3. configure store module with reducer function in app module
+4. how to use(select) store data
+5. how to update state using dispatch method
