@@ -5,9 +5,9 @@ It is a library based on redux pattern used for state management for whole apppl
 ## keywords:
 
 1.store
-2.reducer
+2.reducer - it will be ceated by "createRedcuer" it takes two parments "initaistate" and "on" method. where on method will take two arguments "actionname" and return type will take (state,data)
 3.dispatch
-4.action
+4.action - it will be created by "createAction" ith two parameters name and return type of value using props i.e createAction('name-edit',props<typeofvalue>()) and return a new function
 5.effects
 6.selector
 
